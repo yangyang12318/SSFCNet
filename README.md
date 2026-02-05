@@ -32,6 +32,7 @@ Our method utilizes a Spatial-Frequency Coupled Encoder and a Multi-scale Invers
 
 
 <img width="1094" height="893" alt="image" src="https://github.com/user-attachments/assets/cdd0af38-2336-4b24-95a9-1a236a9b1532" />
+
 *Figure 1: The overall architecture of the proposed method, featuring the Spatial-Frequency Collaborative Extraction Module and Cross-Channel 3D Fusion Module.*
 
 ---
@@ -47,6 +48,7 @@ We have constructed a self-made dataset specifically designed for heterogeneous 
 
 
 <img width="934" height="961" alt="image" src="https://github.com/user-attachments/assets/0d1b3629-d5c4-477f-9aa3-0a7158cf3f75" />
+
 *Figure 2: Examples of the dataset. (A) Earthquake Case Study in Islahiye, Turkey. (B) Flood Case Study in Derna, Libya. The bottom rows show detailed comparisons between Optical, SAR, and Labels.*
 
 ### 📥 Download
