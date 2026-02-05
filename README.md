@@ -1,4 +1,4 @@
-# Fine-Grained Heterogeneous Change Detection in Complex Disaster Response with Wavelet-Based Spatial-Frequency Coupled Learning
+<img width="1094" height="893" alt="image" src="https://github.com/user-attachments/assets/c1094951-d4e8-4c69-8a65-976086a7b352" /># Fine-Grained Heterogeneous Change Detection in Complex Disaster Response with Wavelet-Based Spatial-Frequency Coupled Learning
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Framework: PyTorch](https://img.shields.io/badge/Framework-PyTorch-orange.svg)](https://pytorch.org/)
@@ -33,7 +33,7 @@ In complex disaster response scenarios, detecting fine-grained changes using het
 ### Model Architecture
 Our method utilizes a Spatial-Frequency Coupled Encoder and a Multi-scale Inverse Wavelet Decoder to effectively fuse information and detect changes.
 
-![Model Architecture](model_arch.jpg)
+![Model Architecture](![Uploading image.png…]
 *Figure 1: The overall architecture of the proposed method, featuring the Spatial-Frequency Collaborative Extraction Module and Cross-Channel 3D Fusion Module.*
 
 ---
