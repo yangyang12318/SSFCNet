@@ -47,7 +47,8 @@ We have constructed a self-made dataset specifically designed for heterogeneous 
 * **Post-event Data (T2):** SAR Imagery (Capella)
 * **Labels:** Expert visual interpretation and ground truth masks.
 
-![Dataset Preview](dataset_preview.jpg)
+![Dataset Preview](<img width="934" height="961" alt="image" src="https://github.com/user-attachments/assets/26aa4e72-3e97-4d9a-a0b0-eb170c51e382" />
+)
 *Figure 2: Examples of the dataset. (A) Earthquake Case Study in Islahiye, Turkey. (B) Flood Case Study in Derna, Libya. The bottom rows show detailed comparisons between Optical, SAR, and Labels.*
 
 ### 📥 Download
