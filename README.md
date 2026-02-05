@@ -30,7 +30,7 @@ In complex disaster response scenarios, detecting fine-grained changes using het
 ### Model Architecture
 Our method utilizes a Spatial-Frequency Coupled Encoder and a Multi-scale Inverse Wavelet Decoder to effectively fuse information and detect changes.
 
-![Model Architecture]
+
 <img width="1094" height="893" alt="image" src="https://github.com/user-attachments/assets/cdd0af38-2336-4b24-95a9-1a236a9b1532" />
 *Figure 1: The overall architecture of the proposed method, featuring the Spatial-Frequency Collaborative Extraction Module and Cross-Channel 3D Fusion Module.*
 
@@ -45,7 +45,7 @@ We have constructed a self-made dataset specifically designed for heterogeneous 
 * **Post-event Data (T2):** SAR Imagery (Capella-X)
 * **Labels:** Expert visual interpretation and ground truth masks.
 
-![Dataset Preview]
+
 <img width="934" height="961" alt="image" src="https://github.com/user-attachments/assets/0d1b3629-d5c4-477f-9aa3-0a7158cf3f75" />
 
 *Figure 2: Examples of the dataset. (A) Earthquake Case Study in Islahiye, Turkey. (B) Flood Case Study in Derna, Libya. The bottom rows show detailed comparisons between Optical, SAR, and Labels.*
@@ -56,4 +56,4 @@ The dataset is available for academic research purposes. You can download it via
 [**🔗 Google Drive Link: Download Dataset**](https://drive.google.com/drive/folders/1KDdnoqa-a-s-RZTE7b-1EDngcQPbAgUn?usp=drive_link)
 
 ---
-
+If you have any questions or suggestions, plased to contact me. Email: yangyang1@whu.edu.cn or panjun1215@whu.edu.cn
