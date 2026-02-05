@@ -47,7 +47,6 @@ We have constructed a self-made dataset specifically designed for heterogeneous 
 
 
 <img width="934" height="961" alt="image" src="https://github.com/user-attachments/assets/0d1b3629-d5c4-477f-9aa3-0a7158cf3f75" />
-
 *Figure 2: Examples of the dataset. (A) Earthquake Case Study in Islahiye, Turkey. (B) Flood Case Study in Derna, Libya. The bottom rows show detailed comparisons between Optical, SAR, and Labels.*
 
 ### 📥 Download
