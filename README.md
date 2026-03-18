@@ -55,6 +55,6 @@ We have constructed a self-made dataset specifically designed for heterogeneous 
 The dataset is available for academic research purposes. You can download it via the link below:
 
 [**🔗 Google Drive Link: Download Dataset**](https://drive.google.com/drive/folders/1KDdnoqa-a-s-RZTE7b-1EDngcQPbAgUn?usp=drive_link)
-
+[**🔗 Baidu Netdisk Link: Download Dataset**](https://pan.baidu.com/s/1EkBX1eQMajeUVaKOQeeW9Q) (Extraction code: **buww**)
 ---
 If you have any questions or suggestions, plased to contact me. Email: yangyang1@whu.edu.cn or panjun1215@whu.edu.cn
